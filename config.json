@@ -1,0 +1,140 @@
+{
+    "window_mode": {
+        "fullscreen": "fullscreen"
+    },
+    "resolution": {
+        "wsvga": [
+            1024,
+            576
+        ],
+        "hd": [
+            1280,
+            720
+        ],
+        "fwxga": [
+            1366,
+            768
+        ],
+        "wsxga": [
+            1600,
+            900
+        ],
+        "fullhd": [
+            1920,
+            1080
+        ]
+    },
+    "font_size": {
+        "fwsvga": 18,
+        "fhd": 24,
+        "ffwxga": 36,
+        "fwsxga": 48,
+        "ffullhd": 54
+    },
+    "button_size": {
+        "bwsvga": [
+            150,
+            50
+        ],
+        "bhd": [
+            175,
+            59
+        ],
+        "bfwxga": [
+            200,
+            68
+        ],
+        "bwsxga": [
+            225,
+            75
+        ],
+        "bfullhd": [
+            250,
+            83
+        ]
+    },
+    "line_size": {
+        "lwsvga": [
+            300,
+            50
+        ],
+        "lhd": [
+            325,
+            59
+        ],
+        "lfwfxga": [
+            350,
+            68
+        ],
+        "lwsxga": [
+            375,
+            75
+        ],
+        "lfullhd": [
+            400,
+            83
+        ]
+    },
+    "current_window_mode": "fullscreen",
+    "current_resolution": "wsvga",
+    "font_resolution": "fwsvga",
+    "button_WuH": "bwsvga",
+    "line_WuH": "lwsvga",
+    "theme": "light",
+    "themes": {
+        "dark": {
+            "SCREENBACKGROUND": [
+                5,
+                5,
+                5
+            ],
+            "MENUBACKGROUND": [
+                0,
+                0,
+                0
+            ],
+            "FONTCOLOR": [
+                255,
+                255,
+                255
+            ],
+            "BUTTONBACK": [
+                0,
+                0,
+                0
+            ],
+            "BUTTONOUTLINE": [
+                255,
+                255,
+                255
+            ]
+        },
+        "light": {
+            "SCREENBACKGROUND": [
+                254,
+                254,
+                254
+            ],
+            "MENUBACKGROUND": [
+                255,
+                255,
+                255
+            ],
+            "FONTCOLOR": [
+                0,
+                0,
+                0
+            ],
+            "BUTTONBACK": [
+                255,
+                255,
+                255
+            ],
+            "BUTTONOUTLINE": [
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}
